@@ -1,0 +1,9 @@
+The points A, B, C, D, E, F are collinear and the points P, Q, C ,R, S are collinear, as shown.
+How many different triangles may be formed by joining the points as vertices?
+
+    A
+    B
+P Q C R S
+    D
+    E
+    F
